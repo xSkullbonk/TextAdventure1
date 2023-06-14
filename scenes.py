@@ -6,7 +6,7 @@ if settings.language=="DE":
 
 # Introszene
 def intro(): 
-    l.intro101
+    l.intro101()
     scene1()
 
 # erste Szene
